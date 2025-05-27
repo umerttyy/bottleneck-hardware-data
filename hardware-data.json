@@ -7,7 +7,11 @@
       "cores": 24,
       "threads": 32,
       "baseClock": "3.0 GHz",
-      "boostClock": "5.8 GHz"
+      "boostClock": "5.8 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/0ff/000?text=Intel+i9-13900K",
+      "manufacturer": "Intel",
+      "socket": "LGA1700",
+      "tdp": "125W"
     },
     {
       "name": "AMD Ryzen 9 7900X",
@@ -16,7 +20,11 @@
       "cores": 12,
       "threads": 24,
       "baseClock": "4.7 GHz",
-      "boostClock": "5.6 GHz"
+      "boostClock": "5.6 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+7900X",
+      "manufacturer": "AMD",
+      "socket": "AM5",
+      "tdp": "170W"
     },
     {
       "name": "Intel Core i7-13700K",
@@ -25,7 +33,11 @@
       "cores": 16,
       "threads": 24,
       "baseClock": "3.4 GHz",
-      "boostClock": "5.4 GHz"
+      "boostClock": "5.4 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/0ff/000?text=Intel+i7-13700K",
+      "manufacturer": "Intel",
+      "socket": "LGA1700",
+      "tdp": "125W"
     },
     {
       "name": "AMD Ryzen 7 7700X",
@@ -34,7 +46,11 @@
       "cores": 8,
       "threads": 16,
       "baseClock": "4.5 GHz",
-      "boostClock": "5.4 GHz"
+      "boostClock": "5.4 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+7700X",
+      "manufacturer": "AMD",
+      "socket": "AM5",
+      "tdp": "105W"
     },
     {
       "name": "Intel Core i5-13600K",
@@ -43,7 +59,11 @@
       "cores": 14,
       "threads": 20,
       "baseClock": "3.5 GHz",
-      "boostClock": "5.1 GHz"
+      "boostClock": "5.1 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/0ff/000?text=Intel+i5-13600K",
+      "manufacturer": "Intel",
+      "socket": "LGA1700",
+      "tdp": "125W"
     },
     {
       "name": "AMD Ryzen 5 7600X",
@@ -52,7 +72,24 @@
       "cores": 6,
       "threads": 12,
       "baseClock": "4.7 GHz",
-      "boostClock": "5.3 GHz"
+      "boostClock": "5.3 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+7600X",
+      "manufacturer": "AMD",
+      "socket": "AM5",
+      "tdp": "105W"
+    },
+    {
+      "name": "Intel Core i5-12600K",
+      "score": 17000,
+      "tier": "Mid-Range",
+      "cores": 10,
+      "threads": 16,
+      "baseClock": "3.7 GHz",
+      "boostClock": "4.9 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/0ff/000?text=Intel+i5-12600K",
+      "manufacturer": "Intel",
+      "socket": "LGA1700",
+      "tdp": "125W"
     },
     {
       "name": "Intel Core i5-12400F",
@@ -61,7 +98,11 @@
       "cores": 6,
       "threads": 12,
       "baseClock": "2.5 GHz",
-      "boostClock": "4.4 GHz"
+      "boostClock": "4.4 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/0ff/000?text=Intel+i5-12400F",
+      "manufacturer": "Intel",
+      "socket": "LGA1700",
+      "tdp": "65W"
     },
     {
       "name": "AMD Ryzen 5 5600X",
@@ -70,7 +111,11 @@
       "cores": 6,
       "threads": 12,
       "baseClock": "3.7 GHz",
-      "boostClock": "4.6 GHz"
+      "boostClock": "4.6 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+5600X",
+      "manufacturer": "AMD",
+      "socket": "AM4",
+      "tdp": "65W"
     },
     {
       "name": "Intel Core i3-12100F",
@@ -79,7 +124,11 @@
       "cores": 4,
       "threads": 8,
       "baseClock": "3.3 GHz",
-      "boostClock": "4.3 GHz"
+      "boostClock": "4.3 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/0ff/000?text=Intel+i3-12100F",
+      "manufacturer": "Intel",
+      "socket": "LGA1700",
+      "tdp": "58W"
     },
     {
       "name": "AMD Ryzen 3 3300X",
@@ -88,7 +137,63 @@
       "cores": 4,
       "threads": 8,
       "baseClock": "3.8 GHz",
-      "boostClock": "4.3 GHz"
+      "boostClock": "4.3 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+3+3300X",
+      "manufacturer": "AMD",
+      "socket": "AM4",
+      "tdp": "65W"
+    },
+    {
+      "name": "Intel Core i9-12900K",
+      "score": 24000,
+      "tier": "High-End",
+      "cores": 16,
+      "threads": 24,
+      "baseClock": "3.2 GHz",
+      "boostClock": "5.2 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/0ff/000?text=Intel+i9-12900K",
+      "manufacturer": "Intel",
+      "socket": "LGA1700",
+      "tdp": "125W"
+    },
+    {
+      "name": "AMD Ryzen 9 5900X",
+      "score": 23000,
+      "tier": "High-End",
+      "cores": 12,
+      "threads": 24,
+      "baseClock": "3.7 GHz",
+      "boostClock": "4.8 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+5900X",
+      "manufacturer": "AMD",
+      "socket": "AM4",
+      "tdp": "105W"
+    },
+    {
+      "name": "Intel Core i7-12700K",
+      "score": 20000,
+      "tier": "High-End",
+      "cores": 12,
+      "threads": 20,
+      "baseClock": "3.6 GHz",
+      "boostClock": "5.0 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/0ff/000?text=Intel+i7-12700K",
+      "manufacturer": "Intel",
+      "socket": "LGA1700",
+      "tdp": "125W"
+    },
+    {
+      "name": "AMD Ryzen 7 5700X",
+      "score": 18000,
+      "tier": "Mid-Range",
+      "cores": 8,
+      "threads": 16,
+      "baseClock": "3.4 GHz",
+      "boostClock": "4.6 GHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+5700X",
+      "manufacturer": "AMD",
+      "socket": "AM4",
+      "tdp": "65W"
     }
   ],
   "gpus": [
@@ -99,7 +204,11 @@
       "vram": "24 GB",
       "memoryType": "GDDR6X",
       "baseClock": "2230 MHz",
-      "boostClock": "2520 MHz"
+      "boostClock": "2520 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/00ff00/000?text=RTX+4090",
+      "manufacturer": "NVIDIA",
+      "architecture": "Ada Lovelace",
+      "tdp": "450W"
     },
     {
       "name": "NVIDIA RTX 4080",
@@ -108,7 +217,11 @@
       "vram": "16 GB",
       "memoryType": "GDDR6X",
       "baseClock": "2205 MHz",
-      "boostClock": "2505 MHz"
+      "boostClock": "2505 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/00ff00/000?text=RTX+4080",
+      "manufacturer": "NVIDIA",
+      "architecture": "Ada Lovelace",
+      "tdp": "320W"
     },
     {
       "name": "AMD RX 7900 XTX",
@@ -117,7 +230,11 @@
       "vram": "24 GB",
       "memoryType": "GDDR6",
       "baseClock": "1855 MHz",
-      "boostClock": "2500 MHz"
+      "boostClock": "2500 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff0000/fff?text=RX+7900+XTX",
+      "manufacturer": "AMD",
+      "architecture": "RDNA 3",
+      "tdp": "355W"
     },
     {
       "name": "NVIDIA RTX 4070 Ti",
@@ -126,7 +243,11 @@
       "vram": "12 GB",
       "memoryType": "GDDR6X",
       "baseClock": "2310 MHz",
-      "boostClock": "2610 MHz"
+      "boostClock": "2610 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/00ff00/000?text=RTX+4070+Ti",
+      "manufacturer": "NVIDIA",
+      "architecture": "Ada Lovelace",
+      "tdp": "285W"
     },
     {
       "name": "AMD RX 7800 XT",
@@ -135,7 +256,11 @@
       "vram": "16 GB",
       "memoryType": "GDDR6",
       "baseClock": "1295 MHz",
-      "boostClock": "2430 MHz"
+      "boostClock": "2430 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff0000/fff?text=RX+7800+XT",
+      "manufacturer": "AMD",
+      "architecture": "RDNA 3",
+      "tdp": "263W"
     },
     {
       "name": "NVIDIA RTX 4060 Ti",
@@ -144,7 +269,11 @@
       "vram": "16 GB",
       "memoryType": "GDDR6",
       "baseClock": "2310 MHz",
-      "boostClock": "2535 MHz"
+      "boostClock": "2535 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/00ff00/000?text=RTX+4060+Ti",
+      "manufacturer": "NVIDIA",
+      "architecture": "Ada Lovelace",
+      "tdp": "165W"
     },
     {
       "name": "AMD RX 6700 XT",
@@ -153,7 +282,11 @@
       "vram": "12 GB",
       "memoryType": "GDDR6",
       "baseClock": "2424 MHz",
-      "boostClock": "2581 MHz"
+      "boostClock": "2581 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff0000/fff?text=RX+6700+XT",
+      "manufacturer": "AMD",
+      "architecture": "RDNA 2",
+      "tdp": "230W"
     },
     {
       "name": "NVIDIA RTX 4060",
@@ -162,7 +295,11 @@
       "vram": "8 GB",
       "memoryType": "GDDR6",
       "baseClock": "1830 MHz",
-      "boostClock": "2460 MHz"
+      "boostClock": "2460 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/00ff00/000?text=RTX+4060",
+      "manufacturer": "NVIDIA",
+      "architecture": "Ada Lovelace",
+      "tdp": "115W"
     },
     {
       "name": "AMD RX 6600",
@@ -171,7 +308,11 @@
       "vram": "8 GB",
       "memoryType": "GDDR6",
       "baseClock": "1968 MHz",
-      "boostClock": "2491 MHz"
+      "boostClock": "2491 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff0000/fff?text=RX+6600",
+      "manufacturer": "AMD",
+      "architecture": "RDNA 2",
+      "tdp": "132W"
     },
     {
       "name": "NVIDIA GTX 1660 Super",
@@ -180,29 +321,114 @@
       "vram": "6 GB",
       "memoryType": "GDDR6",
       "baseClock": "1530 MHz",
-      "boostClock": "1785 MHz"
+      "boostClock": "1785 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/00ff00/000?text=GTX+1660+Super",
+      "manufacturer": "NVIDIA",
+      "architecture": "Turing",
+      "tdp": "125W"
+    },
+    {
+      "name": "NVIDIA RTX 3080",
+      "score": 25000,
+      "tier": "High-End",
+      "vram": "10 GB",
+      "memoryType": "GDDR6X",
+      "baseClock": "1440 MHz",
+      "boostClock": "1710 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/00ff00/000?text=RTX+3080",
+      "manufacturer": "NVIDIA",
+      "architecture": "Ampere",
+      "tdp": "320W"
+    },
+    {
+      "name": "NVIDIA RTX 3070",
+      "score": 21000,
+      "tier": "High-End",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "baseClock": "1500 MHz",
+      "boostClock": "1725 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/00ff00/000?text=RTX+3070",
+      "manufacturer": "NVIDIA",
+      "architecture": "Ampere",
+      "tdp": "220W"
+    },
+    {
+      "name": "AMD RX 6800 XT",
+      "score": 23000,
+      "tier": "High-End",
+      "vram": "16 GB",
+      "memoryType": "GDDR6",
+      "baseClock": "2015 MHz",
+      "boostClock": "2250 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/ff0000/fff?text=RX+6800+XT",
+      "manufacturer": "AMD",
+      "architecture": "RDNA 2",
+      "tdp": "300W"
+    },
+    {
+      "name": "NVIDIA RTX 3060 Ti",
+      "score": 19000,
+      "tier": "Mid-Range",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "baseClock": "1410 MHz",
+      "boostClock": "1665 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/00ff00/000?text=RTX+3060+Ti",
+      "manufacturer": "NVIDIA",
+      "architecture": "Ampere",
+      "tdp": "200W"
+    },
+    {
+      "name": "NVIDIA RTX 3060",
+      "score": 16000,
+      "tier": "Mid-Range",
+      "vram": "12 GB",
+      "memoryType": "GDDR6",
+      "baseClock": "1320 MHz",
+      "boostClock": "1777 MHz",
+      "imageUrl": "https://via.placeholder.com/300x200/00ff00/000?text=RTX+3060",
+      "manufacturer": "NVIDIA",
+      "architecture": "Ampere",
+      "tdp": "170W"
     }
   ],
   "resolutions": [
     {
       "name": "720p",
       "multiplier": 1.0,
-      "description": "1280x720 - Entry level gaming"
+      "description": "1280x720 - Entry level gaming",
+      "pixelCount": 921600
     },
     {
       "name": "1080p",
       "multiplier": 1.5,
-      "description": "1920x1080 - Standard gaming"
+      "description": "1920x1080 - Standard gaming",
+      "pixelCount": 2073600
     },
     {
       "name": "1440p",
       "multiplier": 2.5,
-      "description": "2560x1440 - High resolution gaming"
+      "description": "2560x1440 - High resolution gaming",
+      "pixelCount": 3686400
     },
     {
       "name": "4K",
       "multiplier": 4.0,
-      "description": "3840x2160 - Ultra high resolution gaming"
+      "description": "3840x2160 - Ultra high resolution gaming",
+      "pixelCount": 8294400
+    },
+    {
+      "name": "1080p Ultrawide",
+      "multiplier": 1.8,
+      "description": "2560x1080 - Ultrawide gaming",
+      "pixelCount": 2764800
+    },
+    {
+      "name": "1440p Ultrawide",
+      "multiplier": 3.2,
+      "description": "3440x1440 - Ultrawide high resolution",
+      "pixelCount": 4953600
     }
   ]
 }
