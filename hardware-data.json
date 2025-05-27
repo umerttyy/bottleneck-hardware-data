@@ -1,0 +1,208 @@
+{
+  "cpus": [
+    {
+      "name": "Intel Core i9-13900K",
+      "score": 25000,
+      "tier": "High-End",
+      "cores": 24,
+      "threads": 32,
+      "baseClock": "3.0 GHz",
+      "boostClock": "5.8 GHz"
+    },
+    {
+      "name": "AMD Ryzen 9 7900X",
+      "score": 24500,
+      "tier": "High-End",
+      "cores": 12,
+      "threads": 24,
+      "baseClock": "4.7 GHz",
+      "boostClock": "5.6 GHz"
+    },
+    {
+      "name": "Intel Core i7-13700K",
+      "score": 22000,
+      "tier": "High-End",
+      "cores": 16,
+      "threads": 24,
+      "baseClock": "3.4 GHz",
+      "boostClock": "5.4 GHz"
+    },
+    {
+      "name": "AMD Ryzen 7 7700X",
+      "score": 21500,
+      "tier": "High-End",
+      "cores": 8,
+      "threads": 16,
+      "baseClock": "4.5 GHz",
+      "boostClock": "5.4 GHz"
+    },
+    {
+      "name": "Intel Core i5-13600K",
+      "score": 19000,
+      "tier": "Mid-Range",
+      "cores": 14,
+      "threads": 20,
+      "baseClock": "3.5 GHz",
+      "boostClock": "5.1 GHz"
+    },
+    {
+      "name": "AMD Ryzen 5 7600X",
+      "score": 18500,
+      "tier": "Mid-Range",
+      "cores": 6,
+      "threads": 12,
+      "baseClock": "4.7 GHz",
+      "boostClock": "5.3 GHz"
+    },
+    {
+      "name": "Intel Core i5-12400F",
+      "score": 15000,
+      "tier": "Mid-Range",
+      "cores": 6,
+      "threads": 12,
+      "baseClock": "2.5 GHz",
+      "boostClock": "4.4 GHz"
+    },
+    {
+      "name": "AMD Ryzen 5 5600X",
+      "score": 14800,
+      "tier": "Mid-Range",
+      "cores": 6,
+      "threads": 12,
+      "baseClock": "3.7 GHz",
+      "boostClock": "4.6 GHz"
+    },
+    {
+      "name": "Intel Core i3-12100F",
+      "score": 10000,
+      "tier": "Budget",
+      "cores": 4,
+      "threads": 8,
+      "baseClock": "3.3 GHz",
+      "boostClock": "4.3 GHz"
+    },
+    {
+      "name": "AMD Ryzen 3 3300X",
+      "score": 9500,
+      "tier": "Budget",
+      "cores": 4,
+      "threads": 8,
+      "baseClock": "3.8 GHz",
+      "boostClock": "4.3 GHz"
+    }
+  ],
+  "gpus": [
+    {
+      "name": "NVIDIA RTX 4090",
+      "score": 35000,
+      "tier": "High-End",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "baseClock": "2230 MHz",
+      "boostClock": "2520 MHz"
+    },
+    {
+      "name": "NVIDIA RTX 4080",
+      "score": 28000,
+      "tier": "High-End",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "baseClock": "2205 MHz",
+      "boostClock": "2505 MHz"
+    },
+    {
+      "name": "AMD RX 7900 XTX",
+      "score": 27000,
+      "tier": "High-End",
+      "vram": "24 GB",
+      "memoryType": "GDDR6",
+      "baseClock": "1855 MHz",
+      "boostClock": "2500 MHz"
+    },
+    {
+      "name": "NVIDIA RTX 4070 Ti",
+      "score": 22000,
+      "tier": "High-End",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "baseClock": "2310 MHz",
+      "boostClock": "2610 MHz"
+    },
+    {
+      "name": "AMD RX 7800 XT",
+      "score": 20000,
+      "tier": "Mid-Range",
+      "vram": "16 GB",
+      "memoryType": "GDDR6",
+      "baseClock": "1295 MHz",
+      "boostClock": "2430 MHz"
+    },
+    {
+      "name": "NVIDIA RTX 4060 Ti",
+      "score": 18000,
+      "tier": "Mid-Range",
+      "vram": "16 GB",
+      "memoryType": "GDDR6",
+      "baseClock": "2310 MHz",
+      "boostClock": "2535 MHz"
+    },
+    {
+      "name": "AMD RX 6700 XT",
+      "score": 16000,
+      "tier": "Mid-Range",
+      "vram": "12 GB",
+      "memoryType": "GDDR6",
+      "baseClock": "2424 MHz",
+      "boostClock": "2581 MHz"
+    },
+    {
+      "name": "NVIDIA RTX 4060",
+      "score": 15000,
+      "tier": "Mid-Range",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "baseClock": "1830 MHz",
+      "boostClock": "2460 MHz"
+    },
+    {
+      "name": "AMD RX 6600",
+      "score": 12000,
+      "tier": "Budget",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "baseClock": "1968 MHz",
+      "boostClock": "2491 MHz"
+    },
+    {
+      "name": "NVIDIA GTX 1660 Super",
+      "score": 10000,
+      "tier": "Budget",
+      "vram": "6 GB",
+      "memoryType": "GDDR6",
+      "baseClock": "1530 MHz",
+      "boostClock": "1785 MHz"
+    }
+  ],
+  "resolutions": [
+    {
+      "name": "720p",
+      "multiplier": 1.0,
+      "description": "1280x720 - Entry level gaming"
+    },
+    {
+      "name": "1080p",
+      "multiplier": 1.5,
+      "description": "1920x1080 - Standard gaming"
+    },
+    {
+      "name": "1440p",
+      "multiplier": 2.5,
+      "description": "2560x1440 - High resolution gaming"
+    },
+    {
+      "name": "4K",
+      "multiplier": 4.0,
+      "description": "3840x2160 - Ultra high resolution gaming"
+    }
+  ]
+}
